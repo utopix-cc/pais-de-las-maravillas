@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://paisdelasmaravillas.utopix.cc/sitemap.xml
